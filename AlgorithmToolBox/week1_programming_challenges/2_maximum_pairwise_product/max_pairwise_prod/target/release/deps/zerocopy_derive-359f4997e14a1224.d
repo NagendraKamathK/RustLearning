@@ -1,0 +1,7 @@
+/Users/nagendrakamath/DevelopmentLearnings/Rust/RustLearningGit/RustLearning/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/target/release/deps/libzerocopy_derive-359f4997e14a1224.dylib: /Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/lib.rs /Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/ext.rs /Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/repr.rs
+
+/Users/nagendrakamath/DevelopmentLearnings/Rust/RustLearningGit/RustLearning/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/target/release/deps/zerocopy_derive-359f4997e14a1224.d: /Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/lib.rs /Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/ext.rs /Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/repr.rs
+
+/Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/lib.rs:
+/Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/ext.rs:
+/Users/nagendrakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-derive-0.7.35/src/repr.rs:

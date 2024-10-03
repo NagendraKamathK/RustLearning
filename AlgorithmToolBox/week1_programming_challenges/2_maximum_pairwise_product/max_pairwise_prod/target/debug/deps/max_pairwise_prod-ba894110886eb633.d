@@ -1,0 +1,7 @@
+/Users/nagendrakamath/DevelopmentLearnings/Rust/RustLearningGit/RustLearning/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/target/debug/deps/libmax_pairwise_prod-ba894110886eb633.rmeta: src/lib.rs
+
+/Users/nagendrakamath/DevelopmentLearnings/Rust/RustLearningGit/RustLearning/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/target/debug/deps/libmax_pairwise_prod-ba894110886eb633.rlib: src/lib.rs
+
+/Users/nagendrakamath/DevelopmentLearnings/Rust/RustLearningGit/RustLearning/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/target/debug/deps/max_pairwise_prod-ba894110886eb633.d: src/lib.rs
+
+src/lib.rs:

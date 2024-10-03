@@ -2,7 +2,12 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/1_sum_of_two_digits/APlusB/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/1_sum_of_two_digits/APlusB/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
