@@ -5,14 +5,14 @@ pub fn main() {
     ::std::io::stdin().read_line(&mut buff);
     let mut words = buff.split_whitespace();
 
-    let mut nums:Vec<i32> = words.map(|x| x.parse::<i32>().unwrap()).collect();
+    let mut nums:Vec<i64> = words.map(|x| x.parse::<i64>().unwrap()).collect();
 
     println!("{}", max_product_fastest(&nums));
 }
 
-pub fn max_product_fastest(nums: &Vec<i32>) -> i32 {
-    let mut first_largest = i32::MIN;
-    let mut second_largest = i32::MIN;
+pub fn max_product_fastest(nums: &Vec<i64>) -> i64 {
+    let mut first_largest = i64::MIN;
+    let mut second_largest = i64::MIN;
 
     if nums.len() <= 1 { return nums[0];}
 
