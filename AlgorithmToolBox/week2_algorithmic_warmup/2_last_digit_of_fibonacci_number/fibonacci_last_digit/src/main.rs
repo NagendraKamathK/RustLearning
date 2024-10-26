@@ -13,6 +13,6 @@ fn main() {
 
 fn fib(n:usize)->u32{
     let (mut n_2,mut n_1) = (0,1);
-    std::iter::repeat(()).take(n).for_each(|_| (n_2,n_1) = (n_1 , n_2 + n_1));
+    std::iter::repeat(()).take(n).for_each(|_| (n_2,n_1) = (n_1 , (n_2 + n_1)%10));
     n_2
 }
