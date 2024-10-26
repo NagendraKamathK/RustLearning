@@ -1,25 +1,15 @@
 fn main() {
-    let mut read_line = String::new(); 
 
+    let mut read_line = String::new();
     std::io::stdin()
         .read_line(&mut read_line)
         .expect("Failed to read line");
 
-    let mut numbers = read_line.split_whitespace();
-    let n = numbers.next().unwrap().parse().expect("Please enter a valid number");
+    let n:usize = read_line.trim().parse().expect("Please enter a valid number");
+    let f_n_plus_2 = fib_matrix(n+2,10);
 
-    let mod_number = numbers.next().unwrap().parse().expect("Please enter a valid number");
-    
-    println!("{0}",fib_matrix(n, mod_number));
-    //println!("{0}",fib(n, mod_number));
+    println!("{0}",if f_n_plus_2<1 {9} else {f_n_plus_2-1}); //Sn = fn+2-1
 }
-
-// fn fib(n:usize,mod_number:usize)->usize{
-//     let (mut n_2,mut n_1) = (0,1);
-//     std::iter::repeat(()).take(n).for_each(|_| (n_2,n_1) = (n_1 , (n_2 + n_1)%mod_number));
-//     n_2
-// }
-
 fn matrix_mult(a:[[usize;2];2],b:[[usize;2];2],mod_number:usize)->[[usize;2];2]
 {
     [
@@ -48,7 +38,5 @@ fn fib_matrix(n:usize,mod_number:usize)->usize
         base = matrix_mult(base, base, mod_number);
         exp /= 2;
     }
-
-    return result[1][0];
-
+    result[1][0]
 }

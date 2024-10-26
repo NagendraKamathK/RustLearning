@@ -7,10 +7,22 @@
       <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/1_fibonacci_number/fibonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/3_greatest_common_divisor/GCD/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/4_least_common_multiple/lcmOfTwoNumbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/SumOfFibonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/LastDigitOfPartialSum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/SumOfSquares/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/1_sum_of_two_digits/APlusB/target" />
       <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_prod/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/1_fibonacci_number/fibonacci/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/3_greatest_common_divisor/GCD/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/4_least_common_multiple/lcmOfTwoNumbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/SumOfFibonacci/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/LastDigitOfPartialSum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmToolBox/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/SumOfSquares/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
